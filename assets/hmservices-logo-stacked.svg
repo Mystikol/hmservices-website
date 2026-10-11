@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" role="img" aria-labelledby="title desc">
+  <title id="title">HMServices stacked logo review version three</title>
+  <desc id="desc">A clear deep teal HM monogram with a river-channel detail above the Services wordmark.</desc>
+  <rect width="1080" height="1080" fill="#F4F0E6"/>
+  <g fill="none" stroke="#075B5E" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M264 600V258m0 171h174m0-171v342" stroke-width="46"/>
+    <path d="M534 600V258l124 170 124-170v342" stroke-width="46"/>
+    <path d="M264 656c86-40 172-40 258 0 86 40 172 40 258 0" stroke-width="18"/>
+  </g>
+  <text x="540" y="790" text-anchor="middle" fill="#075B5E" font-family="Montserrat, Arial, sans-serif" font-size="110" font-weight="700" letter-spacing="-4">Services</text>
+  <rect x="467" y="825" width="146" height="9" rx="4.5" fill="#D89B25"/>
+  <text x="540" y="884" text-anchor="middle" fill="#075B5E" font-family="Montserrat, Arial, sans-serif" font-size="25" font-weight="600" letter-spacing="3">ENGINEERING INSIGHT FOR RESILIENT COMMUNITIES</text>
+</svg>

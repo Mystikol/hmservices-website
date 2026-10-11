@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">HMServices monogram review version two</title>
+  <desc id="desc">A compact deep teal logo mark that clearly reads HM, with a subtle river-channel detail.</desc>
+  <rect width="1024" height="1024" rx="176" fill="#075B5E"/>
+  <g fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 704V276m0 214h218m0-214v428" stroke-width="58"/>
+    <path d="M526 704V276l125 170 125-170v428" stroke-width="58"/>
+    <path d="M188 772c94-43 188-43 282 0 94 43 188 43 282 0" stroke-width="22"/>
+  </g>
+</svg>
